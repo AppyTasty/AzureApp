@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/apptest1060994/Testing123/_apis/build/status/AppyTasty.AzureApp?branchName=master)](https://dev.azure.com/apptest1060994/Testing123/_build/latest?definitionId=1?branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
